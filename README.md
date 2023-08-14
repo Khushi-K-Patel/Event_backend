@@ -1,1 +1,1 @@
-# Event_backend
+# Event-Management-System
